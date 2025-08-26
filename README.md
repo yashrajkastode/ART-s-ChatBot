@@ -44,9 +44,6 @@ Run the Application:
 streamlit run main.py
 
 
-Open the provided local URL (e.g., http://localhost:8501) in your browser to interact with the chatbot.
-
-
 Requirements
 
 Python 3.8+
