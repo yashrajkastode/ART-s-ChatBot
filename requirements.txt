@@ -1,7 +1,7 @@
-streamlit&gt;=1.36.0
+pip install streamlit 1.36.0
 
-google-generativeai&gt;=0.7.2
+pip install google-generativeai 0.7.2
 
-python-dotenv&gt;=1.0.0
+pip install python-dotenv 1.0.0
 
-os-sys&gt;=2.0.0
+pip install os-sys 2.0.0
