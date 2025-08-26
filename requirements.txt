@@ -1,6 +1,6 @@
-streamlit&gt;=1.25.0
+streamlit&gt;=1.36.0
 
-google-generativeai&gt;=0.3.0
+google-generativeai&gt;=0.7.2
 
 python-dotenv&gt;=1.0.0
 
