@@ -16,7 +16,7 @@ st.set_page_config(
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 gen_ai.configure(api_key=GOOGLE_API_KEY)
-model = gen_ai.GenerativeModel('gemini-pro')
+model = gen_ai.GenerativeModel('gemini-1.5-pro')
 
 
 def translate_role_for_streamlit(user_role):
